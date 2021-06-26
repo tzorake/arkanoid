@@ -22,7 +22,7 @@ public class Game extends JPanel implements ActionListener
 	public static final int BORDER = 30;
 
 	public static final int WIDTH = 13;
-	public static final int HEIGHT = 1;
+	public static final int HEIGHT = 7;
 	
 	public static final int BRICK_WIDTH = 60;
 	public static final int BRICK_HEIGHT = 30;
